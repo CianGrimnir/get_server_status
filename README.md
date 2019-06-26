@@ -4,18 +4,22 @@
 
 ### HOW-TO:
 
-Generate Rack 				Rack_Gateway_Creation.sh
-Generate variable 			Variable_File.sh
+<pre>
+* Generate Rack 	  		        bash Rack_Gateway_Creation.sh
+* Generate variable 			        bash Variable_File.sh
 
-1.start script from 192.168.*.*		Web_Monitor_DataGenerator.py
-2.start client from 192.168.*.*		WebMonitor/Web_Monitor_JSON_Client.py
-3.start WebServer GoScript		WebMonitor/WebMonitor_Server.go
+1. Start script from 192.168.*.*		python Web_Monitor_DataGenerator.py
 
-To View Monitoring:
-http://192.168.CLIENT.IP:8080/CR		FOR CR
-http://192.168.CLIENT.IP:8080/STADD		FOR Straddler
+2. Start client from 192.168.*.*		python WebMonitor/Web_Monitor_JSON_Client.py
 
-Use Button (TOP) to SWAP between both
+3. Start WebServer GoScript		        go run WebMonitor/WebMonitor_Server.go
 
-To View Server LOGS:
-/tmp/Monitor_Web.log
+
+* To View Monitoring:
+* http://192.168.CLIENT.IP:8080/CR		FOR CR
+* http://192.168.CLIENT.IP:8080/STADD		FOR Straddler
+
+</pre>
+* Use Button (TOP) to SWAP between both
+
+* To View Server LOGS:    &nbsp;&nbsp;&nbsp; `/tmp/Monitor_Web.log`
