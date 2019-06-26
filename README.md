@@ -1,8 +1,9 @@
 # GO-Monitoring tools to get server details.
+>
+>
+### *get_server_status_GO:*
 
-### get_server_status_GO
-
-### HOW-TO:
+#### HOW-TO:
 
 <pre>
 * Generate Rack 	  		        bash Rack_Gateway_Creation.sh
