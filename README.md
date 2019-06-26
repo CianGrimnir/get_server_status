@@ -1,6 +1,6 @@
 # GO-Monitoring tools to get server details.
 
-## get_server_status_GO
+### get_server_status_GO
 
 ### HOW-TO:
 
