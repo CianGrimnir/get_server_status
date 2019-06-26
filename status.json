@@ -1,0 +1,261 @@
+{
+    "name": "straddler", 
+    "server": [
+        {
+            "status": "running", 
+            "ip": "192.168.120.162"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.149"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.160"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.161"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.129"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.141"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.142"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.169"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.144"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.145"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.158"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.163"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.227"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.226"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.143"
+        }, 
+        {
+            "status": "not running", 
+            "ip": "192.168.3.92"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.75.141"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.188"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.246"
+        }, 
+        {
+            "status": "not running", 
+            "ip": "192.168.120.245"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.244"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.184"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.220"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.186"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.204"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.180"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.202"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.201"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.200"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.28"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.26"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.27"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.24"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.168"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.3.160"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.174"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.159"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.125"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.171"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.170"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.173"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.172"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.152"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.151"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.150"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.178"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.154"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.131"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.130"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.133"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.132"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.135"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.247"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.124"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.189"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.252"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.253"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.218"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.216"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.192"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.190"
+        }, 
+        {
+            "status": "running", 
+            "ip": "192.168.120.221"
+        }, 
+        {
+            "status": "not running", 
+            "ip": "192.168.120.222"
+        }, 
+        {
+            "status": "not running", 
+            "ip": "192.168.120.185"
+        }
+    ]
+}
