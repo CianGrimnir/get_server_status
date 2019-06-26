@@ -22,4 +22,4 @@
 </pre>
 * Use Button (TOP-RIGHT) to SWAP between both.
 
-* To View Server LOGS:    &nbsp;&nbsp;&nbsp; `/tmp/Monitor_Web.log`
+* To View Server LOGS:    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `/tmp/Monitor_Web.log`
