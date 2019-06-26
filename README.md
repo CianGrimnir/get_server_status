@@ -20,6 +20,6 @@
 * http://192.168.CLIENT.IP:8080/STADD		FOR Straddler
 
 </pre>
-* Use Button (TOP) to SWAP between both
+* Use Button (TOP-RIGHT) to SWAP between both.
 
 * To View Server LOGS:    &nbsp;&nbsp;&nbsp; `/tmp/Monitor_Web.log`
