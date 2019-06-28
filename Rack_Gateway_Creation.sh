@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo  "IP={}"  > Rack_Gateway_info.py
-source /home/mint/DAILY_CHECK/rakesh_script/checkall/variables.sh
+source rakesh_script/checkall/variables.sh
 for i in $stadd  $all_145 $cash $future 
 do
 	rack=`grep -w ${i} ip.txt |awk '{print $1}'`
