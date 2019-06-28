@@ -4,16 +4,16 @@ Author:	Rakesh.N
 
 HOW-TO:
 
-Generate Rack file 					PATH:/home/mint/DAILY_CHECK/rakesh_script/checkall/Monitoring_Web/Rack_Gateway_Creation.sh
-Generate variable file				PATH:/home/mint/DAILY_CHECK/rakesh_script/checkall/Monitoring_Web/Variable_File.sh
+Generate Rack file 			PATH:rakesh_script/checkall/Monitoring_Web/Rack_Gateway_Creation.sh
+Generate variable file			PATH:rakesh_script/checkall/Monitoring_Web/Variable_File.sh
 
-1.start script from 192.168.20.179	PATH:/home/mint/DAILY_CHECK/rakesh_script/checkall/Monitoring_Web/Web_Monitor_DataGenerator.py
-2.start client from 192.168.20.112	PATH:/home/rakesh/Documents/go/WebMonitor/Web_Monitor_JSON_Client.py
-3.start WebServer GoScript			PATH:/home/rakesh/Documents/go/WebMonitor/WebMonitor_Server.go  { go run FILE }
+1.start script from 192.168.20.179	PATH:rakesh_script/checkall/Monitoring_Web/Web_Monitor_DataGenerator.py
+2.start client from 192.168.20.112	PATH:WebMonitor/Web_Monitor_JSON_Client.py
+3.start WebServer GoScript		PATH:WebMonitor/WebMonitor_Server.go  { go run FILE }
 
 To View Monitoring:
-http://192.168.20.112:8080/CR		FOR CR
-http://192.168.20.112:8080/STADD	FOR Straddler
+http://192.168.CLIENT.IP:8080/CR	FOR CR
+http://192.168.CLIENT.IP:8080/STADD	FOR Straddler
 
 Use Button (TOP) to SWAP between both
 
@@ -71,7 +71,7 @@ func StringModify(Strategy string) string {
 func WebMonitor(w http.ResponseWriter, r *http.Request) {
 	var flag = true
 	var range1, range2, range145std_1, range145std_2 net.IP
-	var FILE = "/tmp/status1.json"
+	var FILE = "/tmp/status.json"
 	var counter = 11
 	var OrderCount = 0
 	var TradeCount = 0
@@ -104,7 +104,7 @@ func WebMonitor(w http.ResponseWriter, r *http.Request) {
 	if err != nil {
 		fmt.Println(err)
 		data = GlobalData
-		//		panic(err)
+		//panic(err)
 	} else {
 		GlobalData = data
 	}
