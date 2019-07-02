@@ -50,30 +50,6 @@ def INT_HANDLER():
 
 
 def subprocess_function(j):
-    """
-
-    Parameters
-    ----------
-    j : list
-        Description of parameter `j`.
-
-    Returns
-    -------
-    type
-        Description of returned object.
-
-    Raises
-    -------
-    ExceptionName
-        Why the exception is raised.
-
-    Examples
-    -------
-    Examples should be written in doctest format, and
-    should illustrate how to use the function/class.
-    >>>
-
-    """
     global ip
     # global j
     global Ferror
